@@ -1,0 +1,18 @@
+The positives of inject HTML
+-
+
+The negatives of inject HTML
+- It takes longer to implement than an alert
+
+The positives of alert messages
+- This gives the developer and the user an obvious alert directly after the thing that causes it
+- fast to implement
+
+The negatives of alert messages
+-
+
+The positives of console write
+- We can test features on a webpage without changing the actual script
+
+The negatives of console write
+- The webpage needs to be refreshed to remove the injection
