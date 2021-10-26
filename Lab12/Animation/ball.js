@@ -1,6 +1,6 @@
 // Function to make the ball bounce around
 function moveBall(vx, vy) {
-    var x, y, tx, ty, p, t;
+    var x, y, tx, ty, p, t, opacity;
     $("#ball").stop();
 
     // Find out where the ball is
@@ -14,6 +14,8 @@ function moveBall(vx, vy) {
     t = 1000;
 
     // Check that we've not gone over the  sides
+
+    let o = tx/$("#field").width;
 
     // Left
     if (tx <= 0) {
@@ -70,18 +72,18 @@ function moveBall(vx, vy) {
     }
 
     // Animate this part of the motion, and then make a recursive call
-    $("#ball").animate({paddingTop: ty + "px", paddingLeft: tx + "px"}, t, "linear", function () {moveBall(vx, vy); });
+    $("#ball").animate({paddingTop: ty + "px", paddingLeft: tx + "px", opacity: o + ""}, t, "linear", function () {moveBall(vx, vy); });
 
 }
 
 // Function to set the ball's location. Also stops the ball moving
-function setBall(x, y) {
+function setBall(x, y, o) {
     $("#ball").stop();
-    $("#ball").css({paddingTop: y + "px", paddingLeft: x + "px"});
+    $("#ball").css({paddingTop: y + "px", paddingLeft: x + "px", opacity: o + ""});
 }
 
 
 $(document).ready(function () {
-    setBall(30, 40);
+    setBall(30, 40, 30/$("#field").width());
     moveBall(-90, 65);
 });

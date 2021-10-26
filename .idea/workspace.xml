@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f553f383-842d-4f52-a578-3086ccad648e" name="Default Changelist" comment="save">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab15/classicCinema/htaccess/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab15/classicCinema/htaccess/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab15/classicCinema/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab15/classicCinema/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classicCinema" beforeDir="false" afterPath="$PROJECT_DIR$/classicCinema" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wt3XzAuSP6iiZDtIOvY6PxCyE8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab13" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab13" />
+      <recent name="$PROJECT_DIR$/Lab12/Animation" />
+      <recent name="$PROJECT_DIR$/Lab12" />
+      <recent name="$PROJECT_DIR$/Lab11/classicCinema" />
+      <recent name="$PROJECT_DIR$/Lab12/classicCinema" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab15/classicCinema/htaccess" />
+      <recent name="$PROJECT_DIR$/Lab15/classicCinema" />
+      <recent name="$PROJECT_DIR$/Lab15/classicCinema/php" />
+      <recent name="$PROJECT_DIR$/Lab15/classicCinema/js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f553f383-842d-4f52-a578-3086ccad648e" name="Default Changelist" comment="" />
+      <created>1629264100962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629264100962</updated>
+      <workItem from="1629264104518" duration="525000" />
+      <workItem from="1629274770121" duration="197000" />
+      <workItem from="1629333075955" duration="273000" />
+      <workItem from="1629419707881" duration="3481000" />
+      <workItem from="1629423327893" duration="4434000" />
+      <workItem from="1629691165573" duration="364000" />
+      <workItem from="1629754819207" duration="4022000" />
+      <workItem from="1630282642806" duration="2300000" />
+      <workItem from="1631157839473" duration="1543000" />
+      <workItem from="1631590689175" duration="726000" />
+      <workItem from="1631596363955" duration="371000" />
+      <workItem from="1631655789356" duration="10253000" />
+      <workItem from="1631737295149" duration="444000" />
+      <workItem from="1631744887879" duration="5121000" />
+      <workItem from="1631756675720" duration="1938000" />
+      <workItem from="1631759288308" duration="248000" />
+      <workItem from="1632096292598" duration="56000" />
+      <workItem from="1632267669084" duration="1617000" />
+      <workItem from="1632294962312" duration="7065000" />
+      <workItem from="1632359316297" duration="1641000" />
+      <workItem from="1632688206960" duration="5915000" />
+      <workItem from="1632779810523" duration="18044000" />
+      <workItem from="1632882361130" duration="9123000" />
+      <workItem from="1633038317799" duration="20980000" />
+      <workItem from="1633380478696" duration="13582000" />
+      <workItem from="1633571520187" duration="2175000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding files to the repo">
+      <created>1629264222713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629264222713</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding files to the repo">
+      <created>1629274918640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629274918640</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding files to the repo">
+      <created>1629333095498</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629333095498</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding files to the repo">
+      <created>1629419726924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629419726924</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changing the sampleValidator.js to JQuery">
+      <created>1629421792883</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629421792883</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changing the cart.js to JQuery">
+      <created>1629422331867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629422331867</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changing the cartDisplayJS.js to JQuery">
+      <created>1629422974956</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629422974956</updated>
+    </task>
+    <task id="LOCAL-00008" summary="editing html and js files to make it work">
+      <created>1629423885567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629423885567</updated>
+    </task>
+    <task id="LOCAL-00009" summary="editing js files to make it work">
+      <created>1629425691514</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629425691514</updated>
+    </task>
+    <task id="LOCAL-00010" summary="editing js files to make it work and adding jQuery files">
+      <created>1629426025556</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1629426025556</updated>
+    </task>
+    <task id="LOCAL-00011" summary="editing js files to make it work and adding jQuery files">
+      <created>1629426779565</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1629426779565</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finished lab 10">
+      <created>1629432721392</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1629432721392</updated>
+    </task>
+    <task id="LOCAL-00013" summary="wokring on lab 11">
+      <created>1629755268087</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1629755268087</updated>
+    </task>
+    <task id="LOCAL-00014" summary="wokring on lab 11">
+      <created>1629755470447</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1629755470447</updated>
+    </task>
+    <task id="LOCAL-00015" summary="wokring on lab 11">
+      <created>1629755559426</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1629755559426</updated>
+    </task>
+    <task id="LOCAL-00016" summary="wokring on lab 11">
+      <created>1629755856892</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1629755856893</updated>
+    </task>
+    <task id="LOCAL-00017" summary="wokring on lab 11">
+      <created>1629756158901</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1629756158901</updated>
+    </task>
+    <task id="LOCAL-00018" summary="wokring on lab 11">
+      <created>1629757055281</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1629757055281</updated>
+    </task>
+    <task id="LOCAL-00019" summary="adding buttons and divs">
+      <created>1629757172625</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1629757172625</updated>
+    </task>
+    <task id="LOCAL-00020" summary="made reviews js">
+      <created>1629757312111</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1629757312111</updated>
+    </task>
+    <task id="LOCAL-00021" summary="adding code to reviews js">
+      <created>1629757960287</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1629757960287</updated>
+    </task>
+    <task id="LOCAL-00022" summary="lab 11 done but not working. Need some help getting it running">
+      <created>1630284066803</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1630284066804</updated>
+    </task>
+    <task id="LOCAL-00023" summary="working on lab 12">
+      <created>1630284713816</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1630284713816</updated>
+    </task>
+    <task id="LOCAL-00024" summary="adding files to the repo">
+      <created>1631660653120</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1631660653120</updated>
+    </task>
+    <task id="LOCAL-00025" summary="making the Animation files">
+      <created>1631661135388</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1631661135388</updated>
+    </task>
+    <task id="LOCAL-00026" summary="making the Animation files">
+      <created>1631667695576</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1631667695576</updated>
+    </task>
+    <task id="LOCAL-00027" summary="adding files to lab 13">
+      <created>1632187703732</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1632187703732</updated>
+    </task>
+    <task id="LOCAL-00028" summary="working on php">
+      <created>1632192455153</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1632192455153</updated>
+    </task>
+    <task id="LOCAL-00029" summary="finished lab 15. working in lab 15 directory only now but will be uploading each complete to each lab so i can see the difference">
+      <created>1632192968692</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1632192968692</updated>
+    </task>
+    <task id="LOCAL-00030" summary="doing the first part of lab 16">
+      <created>1632260696303</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1632260696303</updated>
+    </task>
+    <task id="LOCAL-00031" summary="finished lab 17">
+      <created>1632713658944</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1632713658944</updated>
+    </task>
+    <task id="LOCAL-00032" summary="finished lab 18">
+      <created>1632782123548</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1632782123548</updated>
+    </task>
+    <task id="LOCAL-00033" summary="making the tests for lab 19">
+      <created>1632785336557</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1632785336557</updated>
+    </task>
+    <task id="LOCAL-00034" summary="lab 17 done">
+      <created>1632960136472</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1632960136472</updated>
+    </task>
+    <task id="LOCAL-00035" summary="lab 18 done">
+      <created>1632961059326</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1632961059326</updated>
+    </task>
+    <task id="LOCAL-00036" summary="lab 19 done">
+      <created>1632962560432</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1632962560432</updated>
+    </task>
+    <task id="LOCAL-00037" summary="lab 19 done">
+      <created>1632966898149</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1632966898149</updated>
+    </task>
+    <task id="LOCAL-00038" summary="finsihed upto 23&#10;jsut getting things working">
+      <created>1633298469346</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1633298469347</updated>
+    </task>
+    <task id="LOCAL-00039" summary="making it appear again">
+      <created>1633311018991</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1633311018991</updated>
+    </task>
+    <task id="LOCAL-00040" summary="got the register working">
+      <created>1633316406734</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1633316406734</updated>
+    </task>
+    <task id="LOCAL-00041" summary="save">
+      <created>1633318749157</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1633318749157</updated>
+    </task>
+    <task id="LOCAL-00042" summary="save">
+      <created>1633391798599</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1633391798599</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="editing js files to make it work and adding jQuery files" />
+    <MESSAGE value="finished lab 10" />
+    <MESSAGE value="wokring on lab 11" />
+    <MESSAGE value="adding buttons and divs" />
+    <MESSAGE value="made reviews js" />
+    <MESSAGE value="adding code to reviews js" />
+    <MESSAGE value="lab 11 done but not working. Need some help getting it running" />
+    <MESSAGE value="working on lab 12" />
+    <MESSAGE value="adding files to the repo" />
+    <MESSAGE value="making the Animation files" />
+    <MESSAGE value="adding files to lab 13" />
+    <MESSAGE value="working on php" />
+    <MESSAGE value="finished lab 15. working in lab 15 directory only now but will be uploading each complete to each lab so i can see the difference" />
+    <MESSAGE value="doing the first part of lab 16" />
+    <MESSAGE value="finished lab 16" />
+    <MESSAGE value="finished lab 17" />
+    <MESSAGE value="finished lab 18" />
+    <MESSAGE value="making the tests for lab 19" />
+    <MESSAGE value="lab 17 done" />
+    <MESSAGE value="lab 18 done" />
+    <MESSAGE value="lab 19 done" />
+    <MESSAGE value="finsihed upto 23&#10;jsut getting things working" />
+    <MESSAGE value="making it appear again" />
+    <MESSAGE value="got the register working" />
+    <MESSAGE value="save" />
+    <option name="LAST_COMMIT_MESSAGE" value="save" />
+  </component>
+</project>

@@ -1,0 +1,93 @@
+html {
+    color: darkslategrey;
+    background-color: #000000;
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+body, header{
+    width: 700px;
+    margin: 0 auto;
+}
+
+header,
+main{
+    margin: 0 0 10px 0;
+    border: 1px solid;
+    border-radius: 0 10px 10px 10px;
+    background-color: #eeeeee;
+    color: inherit;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 48px;
+    display: inline-block;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+figure {
+    margin: 0;
+}
+
+/**   Header **/
+header {
+    position: fixed;
+    top: 0;
+    width: inherit;
+    z-index: 100;
+}
+
+#loginForm label {
+    display: inline-block;
+    width: 60px;
+}
+
+#logout {
+    display: none;
+}
+
+/**   main element   **/
+main {
+    margin-top: 180px;
+    width: 700px;
+}
+
+/** Navigation **/
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    width: 75px;
+    margin: 0 10px 0 0;
+}
+
+nav li a {
+    display: block;
+}
+
+nav {
+    font-size: 12px;
+    text-align: right;
+    margin-top: 25px;
+}
+
+/** Map */
+#map{
+    width: 680px;
+    height: 550px;
+}

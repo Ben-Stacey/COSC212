@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="342c541a-14f8-4d6f-a522-40357083ae1f" name="Sapphire" url="localhost:8888">
+        <fileTransfer rootFolder="/devel/bstacey/projects/ClassicCinema" accessType="SFTP" host="localhost" port="8887" sshConfigId="9c1eff44-4908-40eb-80b3-b4851046163a" sshConfig="bstacey@localhost:8887 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

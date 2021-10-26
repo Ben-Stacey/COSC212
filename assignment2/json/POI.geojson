@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "park",
+        "name": "DCC Dog Park Wakari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.473314,
+          -45.855976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "The Big Walk",
+        "type": "walkingTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.49052566289902,
+          -45.911734850052895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Circular Walking Track",
+        "type": "walkingTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.48803120851517,
+          -45.913724171912456
+        ]
+      }
+    },
+    {
+          "type": "Feature",
+          "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "",
+            "type": "park",
+            "name": "Beach Dog Park"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              170.49030303955075,
+              -45.911675131971606
+            ]
+          }
+        }
+  ]
+}
